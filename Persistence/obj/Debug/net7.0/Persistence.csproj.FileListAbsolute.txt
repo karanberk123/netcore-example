@@ -1,0 +1,15 @@
+/Users/berk/Desktop/netcore-example/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/berk/Desktop/netcore-example/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/berk/Desktop/netcore-example/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/berk/Desktop/netcore-example/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/berk/Desktop/netcore-example/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/berk/Desktop/netcore-example/Persistence/obj/Debug/net7.0/ref/Persistence.dll

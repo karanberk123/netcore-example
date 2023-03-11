@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{2BBAB6D5-5E91-452B-8DFB-15E9A96B5C2F}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Persistence/DataContext.cs">
+    <Files>
+      <File FileName="API/Controllers/ActivitiesController.cs" />
+      <File FileName="Application/Activities/List.cs" />
+      <File FileName="API/Controllers/BaseApiController.cs" />
+      <File FileName="Application/Activities/Details.cs" />
+      <File FileName="Application/Activities/Create.cs" />
+      <File FileName="Application/Activities/Edit.cs" />
+      <File FileName="Application/Core/MappingProfiles.cs" />
+      <File FileName="Application/Activities/Delete.cs" />
+      <File FileName="API/Extensions/ApplicationServiceExtensions.cs" />
+      <File FileName="API/Program.cs" Line="21" Column="4" />
+      <File FileName="Application/Activities/ActivityValidator.cs" />
+      <File FileName="Application/Core/Result.cs" />
+      <File FileName="Application/Core/AppException.cs" />
+      <File FileName="API/Middleware/ExceptionMiddleware.cs" />
+      <File FileName="API/Controllers/BuggyController.cs" />
+      <File FileName="Domain/Activity.cs" Line="13" Column="8" />
+      <File FileName="Domain/AppUser.cs" Line="11" Column="9" />
+      <File FileName="Persistence/DataContext.cs" Line="30" Column="53" />
+      <File FileName="API/Extensions/IdentityServiceExtensions.cs" Line="44" Column="55" />
+      <File FileName="Persistence/seed.cs" Line="54" Column="25" />
+      <File FileName="API/DTOs/LoginDto.cs" Line="8" Column="6" />
+      <File FileName="API/DTOs/RegisterDto.cs" Line="21" Column="6" />
+      <File FileName="API/DTOs/UserDto.cs" Line="5" Column="6" />
+      <File FileName="API/Controllers/AccountController.cs" Line="23" Column="1" />
+      <File FileName="API/Services/TokenService.cs" Line="17" Column="10" />
+      <File FileName="API/appsettings.Development.json" Line="11" Column="33" />
+      <File FileName="Domain/ActivityAttendee.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="netcore-example" expanded="True">
+            <Node name="Domain" expanded="True" />
+            <Node name="Persistence" expanded="True">
+              <Node name="DataContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
